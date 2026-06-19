@@ -30,11 +30,7 @@ Motto    : "Choices have consequences 👍"
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=00FF41&width=420&lines=%E2%94%8C%E2%94%80%E2%94%80(slippy-spider%40kali)-[~%2F]%0A%E2%94%94%E2%94%80%24+cat+skills.sh" />
 
 ```
-▓▓▓▓▓▓▓▓▓░  JavaScript   90%
-▓▓▓▓▓▓▓▓░░  React.js     80%
-▓▓▓▓▓▓▓░░░  Node.js      70%
-▓▓▓▓▓▓▓▓░░  Python       80%
-▓▓▓▓▓▓░░░░  MongoDB      60%
+▓▓▓▓▓▓▓▓▓░  html   90%
 ▓▓▓▓▓▓▓░░░  Git/GitHub   75%
 ▓▓▓▓▓▓▓▓░░  Gaming       99% 🎮
 ```
