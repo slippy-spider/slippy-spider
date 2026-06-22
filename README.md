@@ -19,12 +19,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=00FF41&width=420&lines=%E2%94%8C%E2%94%80%E2%94%80(slippy-spider%40kali)-[~%2F]%0A%E2%94%94%E2%94%80%24+whoami" />
 
 ```yaml
-                                                        Name     : Tamzid Ahmed Nakib
-                                                        Role     : Beginner Programmer
-                                                        Location : Bangladesh 🇧🇩
-                                                        Focus    : Web Dev, Problem Solving & Fulltime Gaming
-                                                        Status   : [ ONLINE ] Always Dreaming...
-                                                        Motto    : "Choices have consequences 👍"
+ Name     : Tamzid Ahmed Nakib
+ Role     : Beginner Programmer
+ Location : Bangladesh 🇧🇩
+ Focus    : Web Dev, Problem Solving & Fulltime Gaming
+ Status   : [ ONLINE ] Always Dreaming...
+ Motto    : "Choices have consequences 👍"
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=00FF41&width=420&lines=%E2%94%8C%E2%94%80%E2%94%80(slippy-spider%40kali)-[~%2F]%0A%E2%94%94%E2%94%80%24+cat+skills.sh" />
