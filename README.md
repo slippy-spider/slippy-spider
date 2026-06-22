@@ -19,12 +19,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=00FF41&width=420&lines=%E2%94%8C%E2%94%80%E2%94%80(slippy-spider%40kali)-[~%2F]%0A%E2%94%94%E2%94%80%24+whoami" />
 
 ```yaml
-Name     : Tamzid Ahmed Nakib
-Role     : Beginner Programmer
-Location : Bangladesh 🇧🇩
-Focus    : Web Dev, Problem Solving & Fulltime Gaming
-Status   : [ ONLINE ] Always Dreaming...
-Motto    : "Choices have consequences 👍"
+                                                        Name     : Tamzid Ahmed Nakib
+                                                        Role     : Beginner Programmer
+                                                        Location : Bangladesh 🇧🇩
+                                                        Focus    : Web Dev, Problem Solving & Fulltime Gaming
+                                                        Status   : [ ONLINE ] Always Dreaming...
+                                                        Motto    : "Choices have consequences 👍"
 ```
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=500&color=00FF41&width=420&lines=%E2%94%8C%E2%94%80%E2%94%80(slippy-spider%40kali)-[~%2F]%0A%E2%94%94%E2%94%80%24+cat+skills.sh" />
@@ -95,16 +95,16 @@ Motto    : "Choices have consequences 👍"
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  [00:00:01] > Spider web initialized................DONE  ║
-║  [00:00:02] > Loading Tamzid Ahmed Nakib............OK    ║
-║  [00:00:03] > Coffee level: CRITICAL ☕                   ║
-║  [00:00:04] > Passion for coding..............LOADED ✓    ║
-║  [00:00:05] > Gaming mode...................ALWAYS ON 🎮   ║
-║  [00:00:06] > Problem solver mode..........ENABLED ✓      ║
-║  [00:00:07] > Motto: Choices have consequences 👍          ║
-║  [00:00:08] > slippy-spider is ONLINE 🟢                  ║
-╚══════════════════════════════════════════════════════════╝
+                                       ╔══════════════════════════════════════════════════════════╗
+                                       ║  [00:00:01] > Spider web initialized................DONE ║
+                                       ║  [00:00:02] > Loading Tamzid Ahmed Nakib............OK   ║
+                                       ║  [00:00:03] > Coffee level: CRITICAL ☕                  ║ 
+                                       ║ [00:00:04] > Passion for coding..............LOADED ✓    ║
+                                       ║ [00:00:05] > Gaming mode...................ALWAYS ON 🎮  ║
+                                       ║  [00:00:06] > Problem solver mode..........ENABLED ✓     ║
+                                       ║  [00:00:07] > Motto: Choices have consequences 👍        ║
+                                       ║ [00:00:08] > slippy-spider is ONLINE 🟢                  ║
+                                       ╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
